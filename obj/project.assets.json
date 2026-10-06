@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acer\\Downloads\\workshop\\Week2Workshop.csproj",
-      "projectName": "Week2Workshop",
-      "projectPath": "C:\\Users\\acer\\Downloads\\workshop\\Week2Workshop.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\Downloads\\workshop\\Task 1.csproj",
+      "projectName": "Task 1",
+      "projectPath": "C:\\Users\\acer\\Downloads\\workshop\\Task 1.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\acer\\Downloads\\workshop\\obj\\",
       "projectStyle": "PackageReference",

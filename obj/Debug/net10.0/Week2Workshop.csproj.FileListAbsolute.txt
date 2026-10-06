@@ -12,3 +12,4 @@ C:\Users\acer\Downloads\workshop\obj\Debug\net10.0\refint\Week2Workshop.dll
 C:\Users\acer\Downloads\workshop\obj\Debug\net10.0\Week2Workshop.pdb
 C:\Users\acer\Downloads\workshop\obj\Debug\net10.0\Week2Workshop.genruntimeconfig.cache
 C:\Users\acer\Downloads\workshop\obj\Debug\net10.0\ref\Week2Workshop.dll
+C:\Users\acer\Downloads\workshop\obj\Debug\net10.0\Week2Workshop.sourcelink.json
